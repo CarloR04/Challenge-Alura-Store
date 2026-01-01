@@ -29,8 +29,10 @@ El proyecto fue desarrollado como un ejercicio integral de análisis de datos, a
 ## 🗂️ Estructura del proyecto
 
 📁 AluraStoreLATAM
+
 │
 ├── 📓 AluraStoreLatam.ipynb   # Notebook principal con el análisis completo
+
 ├── 📄 README.md              # Documentación del proyecto
 
 
@@ -103,8 +105,20 @@ Integrar datos de costos operativos para análisis de rentabilidad
 
 Automatizar el pipeline de datos (ETL) 
 
+## ✒️ Mentor ✒️
+
+Con mucho agradecimiento por el conocimiento impartido a los tutores de Alura Latam: 
+
+- Alvaro Camacho https://github.com/ahcamachod 
+
+
 ## 👤 Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/225071618?v=4&size=64" width=115><br><sub>Carlo Robles</sub>](https://github.com/CarloR04) |  
+| :---: |
+
 
 Carlos Robles
 Ingeniero Industrial | Data Analytics & Data Engineering Jr
+
 📍 Colombia
