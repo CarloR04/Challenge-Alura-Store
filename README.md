@@ -8,3 +8,20 @@ El análisis se enfoca en identificar patrones de facturación, comportamiento d
 
 El proyecto fue desarrollado como un ejercicio integral de análisis de datos, aplicando buenas prácticas de limpieza, exploración y visualización.
 
+## 🎯 Objetivos del análisis
+
+    Evaluar la facturación total y por tienda
+
+    Analizar las ventas por categoría de producto
+
+    Calcular la calificación promedio de cada tienda
+
+    Identificar los productos más y menos vendidos
+
+    Analizar el costo promedio de envío por tienda
+
+    Unificar los datos de todas las tiendas en un solo dataset
+
+    Analizar la distribución geográfica de las ventas mediante un mapa de calor
+
+    Extraer hallazgos clave que aporten valor al negocio
